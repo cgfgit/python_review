@@ -16,32 +16,20 @@
     <SUITE FILE_PATH="coverage/python_review$demo01_closePackage.coverage" NAME="demo01_closePackage Coverage Results" MODIFIED="1523456369358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_review$demo03_.coverage" NAME="demo03_列表去重的几种方式 Coverage Results" MODIFIED="1530351253494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_review$demo07_.coverage" NAME="demo07_斐波那契数列 Coverage Results" MODIFIED="1530603583337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_review$demo08_.coverage" NAME="demo08_函数的打包和解包 Coverage Results" MODIFIED="1530628885050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_review$demo05_.coverage" NAME="demo05_字符串倒序 Coverage Results" MODIFIED="1530360621634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="demo07_斐波那契数列.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo07_斐波那契数列.py">
+      <file leaf-file-name="demo08_函数的打包和解包.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo08_函数的打包和解包.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1247">
-              <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+            <state relative-caret-position="667">
+              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
               <folding>
-                <element signature="e#46#170#0" expanded="true" />
-                <element signature="e#210#837#1" expanded="true" />
-                <element signature="e#859#944#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo17_斐波那契数列.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/advince/python/interview01/demo17_斐波那契数列.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="e#44#168#0" expanded="true" />
-                <element signature="e#853#929#0" expanded="true" />
+                <element signature="e#7#148#1" expanded="true" />
+                <element signature="e#183#306#0" expanded="true" />
+                <element signature="e#426#465#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,6 +56,7 @@
         <option value="$PROJECT_DIR$/demo05_字符串倒序.py" />
         <option value="$PROJECT_DIR$/demo06_正则表达式相关的操作.py" />
         <option value="$PROJECT_DIR$/demo07_斐波那契数列.py" />
+        <option value="$PROJECT_DIR$/demo08_函数的打包和解包.py" />
       </list>
     </option>
   </component>
@@ -98,8 +87,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,6 +98,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,26 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo07_斐波那契数列">
-    <configuration name="demo03_列表去重的几种方式" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_review" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo03_列表去重的几种方式.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.demo08_函数的打包和解包">
     <configuration name="demo04_单例模式" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,20 +196,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="demo08_函数的打包和解包" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_review" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo08_函数的打包和解包.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.demo03_列表去重的几种方式" />
-      <item index="1" class="java.lang.String" itemvalue="Python.demo04_单例模式" />
-      <item index="2" class="java.lang.String" itemvalue="Python.demo05_字符串倒序" />
-      <item index="3" class="java.lang.String" itemvalue="Python.demo06_正则表达式相关的操作" />
-      <item index="4" class="java.lang.String" itemvalue="Python.demo07_斐波那契数列" />
+      <item index="0" class="java.lang.String" itemvalue="Python.demo04_单例模式" />
+      <item index="1" class="java.lang.String" itemvalue="Python.demo05_字符串倒序" />
+      <item index="2" class="java.lang.String" itemvalue="Python.demo06_正则表达式相关的操作" />
+      <item index="3" class="java.lang.String" itemvalue="Python.demo07_斐波那契数列" />
+      <item index="4" class="java.lang.String" itemvalue="Python.demo08_函数的打包和解包" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.demo07_斐波那契数列" />
-        <item index="1" class="java.lang.String" itemvalue="Python.demo06_正则表达式相关的操作" />
-        <item index="2" class="java.lang.String" itemvalue="Python.demo05_字符串倒序" />
-        <item index="3" class="java.lang.String" itemvalue="Python.demo04_单例模式" />
-        <item index="4" class="java.lang.String" itemvalue="Python.demo03_列表去重的几种方式" />
+        <item index="0" class="java.lang.String" itemvalue="Python.demo08_函数的打包和解包" />
+        <item index="1" class="java.lang.String" itemvalue="Python.demo07_斐波那契数列" />
+        <item index="2" class="java.lang.String" itemvalue="Python.demo06_正则表达式相关的操作" />
+        <item index="3" class="java.lang.String" itemvalue="Python.demo05_字符串倒序" />
+        <item index="4" class="java.lang.String" itemvalue="Python.demo04_单例模式" />
       </list>
     </recent_temporary>
   </component>
@@ -265,11 +254,11 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28630707" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35961273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19172722" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19452208" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -296,6 +285,29 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo07_斐波那契数列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#46#170#0" expanded="false" />
+            <element signature="e#210#837#1" expanded="false" />
+            <element signature="e#859#944#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/advince/python/interview01/demo17_斐波那契数列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#44#168#0" expanded="false" />
+            <element signature="e#853#929#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo06_正则表达式相关的操作.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -444,23 +456,35 @@
     </entry>
     <entry file="file://$USER_HOME$/advince/python/interview01/demo17_斐波那契数列.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="870">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
-            <element signature="e#44#168#0" expanded="true" />
-            <element signature="e#853#929#0" expanded="true" />
+            <element signature="e#44#168#0" expanded="false" />
+            <element signature="e#853#929#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo07_斐波那契数列.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1247">
+        <state relative-caret-position="609">
           <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
           <folding>
-            <element signature="e#46#170#0" expanded="true" />
-            <element signature="e#210#837#1" expanded="true" />
-            <element signature="e#859#944#0" expanded="true" />
+            <element signature="e#46#170#0" expanded="false" />
+            <element signature="e#210#837#1" expanded="false" />
+            <element signature="e#859#944#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo08_函数的打包和解包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="e#7#148#1" expanded="true" />
+            <element signature="e#183#306#0" expanded="true" />
+            <element signature="e#426#465#0" expanded="true" />
           </folding>
         </state>
       </provider>
